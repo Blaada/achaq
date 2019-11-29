@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+span:hover {
+  background-color: red;
+  color: black;
+}
+
+.square {
+  height: 10px;
+  width: 10px;
+  background-color: #000000;
+  position: absolute;
+}
+.input-ngx{
+  visibility: hidden;
+}
